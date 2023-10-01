@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "PKjljPvG0D2o/U0ixhilD8r+Zm/SvGlozSoIxJWTdXs=",
+  "Source": "Rolfin.Blazor.FluentValidation",
+  "BasePath": "_content/Rolfin.Blazor.FluentValidation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Rolfin.Blazor.FluentValidation\\wwwroot",
+      "Source": "Rolfin.Blazor.FluentValidation",
+      "ContentRoot": "C:\\Users\\rolfin\\Source\\Repos\\HuntingAndFishing\\src\\Rolfin.Blazor.FluentValidation\\wwwroot\\",
+      "BasePath": "_content/Rolfin.Blazor.FluentValidation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

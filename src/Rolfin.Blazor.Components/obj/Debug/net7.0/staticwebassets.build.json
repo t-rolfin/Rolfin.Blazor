@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "Hash": "Awa11LZp712OYT256kEGxALpf0sHb4rfriamJGBrWTo=",
+  "Source": "Rolfin.Blazor.Components",
+  "BasePath": "_content/Rolfin.Blazor.Components",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.FluentValidation\\Rolfin.Blazor.FluentValidation.csproj",
+      "Version": 2,
+      "Source": "Rolfin.Blazor.FluentValidation",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU;TargetFramework=net7.0",
+      "AdditionalPublishPropertiesToRemove": "RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU;TargetFramework=net7.0",
+      "AdditionalBuildPropertiesToRemove": "RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Rolfin.Blazor.Components\\wwwroot",
+      "Source": "Rolfin.Blazor.Components",
+      "ContentRoot": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.Components\\wwwroot\\",
+      "BasePath": "_content/Rolfin.Blazor.Components",
+      "Pattern": "**"
+    },
+    {
+      "Name": "Rolfin.Blazor.FluentValidation\\wwwroot",
+      "Source": "Rolfin.Blazor.FluentValidation",
+      "ContentRoot": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.FluentValidation\\wwwroot\\",
+      "BasePath": "_content/Rolfin.Blazor.FluentValidation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.Components\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Rolfin.Blazor.Components.styles.css",
+      "SourceId": "Rolfin.Blazor.Components",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.Components\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Rolfin.Blazor.Components",
+      "RelativePath": "Rolfin.Blazor.Components.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.Components\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Rolfin.Blazor.Components.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Rolfin.Blazor.Components.bundle.scp.css",
+      "SourceId": "Rolfin.Blazor.Components",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Rolfin.Blazor.Components",
+      "RelativePath": "Rolfin.Blazor.Components.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.Components\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Rolfin.Blazor.Components.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.Components\\wwwroot\\dropZone.js",
+      "SourceId": "Rolfin.Blazor.Components",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.Components\\wwwroot\\",
+      "BasePath": "_content/Rolfin.Blazor.Components",
+      "RelativePath": "dropZone.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dropZone.js"
+    },
+    {
+      "Identity": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.Components\\wwwroot\\rolfin.scripts.js",
+      "SourceId": "Rolfin.Blazor.Components",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.Components\\wwwroot\\",
+      "BasePath": "_content/Rolfin.Blazor.Components",
+      "RelativePath": "rolfin.scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\rolfin.scripts.js"
+    }
+  ]
+}

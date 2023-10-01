@@ -1,0 +1,82 @@
+.stapper-container[b-mfxsnkl10t] {
+    position: relative;
+    height: 80vh;
+}
+
+.stepper-nav[b-mfxsnkl10t] {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    user-select: none;
+    margin-bottom: 30px;
+}
+
+.step-bubble[b-mfxsnkl10t]{
+    background-color: #dbcfcf;
+    height: 25px;
+    width: 25px;
+    border-radius: 100%;
+    margin: 5px;
+    color: white;
+    text-align:center;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    position: relative;
+}
+
+.step-bubble:hover[b-mfxsnkl10t]{
+    cursor: pointer;
+}
+
+.stepper-nav > .step-line[b-mfxsnkl10t]{
+    background-color: #dbcfcf;
+    height: 2px;
+}
+
+.active[b-mfxsnkl10t] {
+    background-color: blueviolet !important;
+    position: relative;
+}
+
+.active[b-mfxsnkl10t]::after {
+    content: "";
+    position: absolute;
+    border: 2px solid blueviolet;
+    top: -5px;
+    left: -5px;
+    right: -5px;
+    bottom: -5px;
+    border-radius: 100%;
+}
+
+.success[b-mfxsnkl10t] {
+    background-color: #3bc469 !important;
+}
+
+.fail[b-mfxsnkl10t] {
+    background-color: #fa5555 !important;
+}
+
+.step-actions[b-mfxsnkl10t] {
+    position: relative;
+    display: flex;
+    padding: 15px;
+    flex-direction: row;
+    justify-content: end;
+    background-color: white;
+    width: 100%;
+}
+
+.step-bubble-placeholder[b-mfxsnkl10t]{
+    position: absolute;
+    top: -30px;
+    z-index: 999;
+}
+
+.step-bubble-placeholder span[b-mfxsnkl10t]{
+    color: black;
+    width: auto;
+}

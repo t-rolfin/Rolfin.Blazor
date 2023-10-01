@@ -1,0 +1,25 @@
+.breadcrumb-container[b-4tf3qsx22r]
+{
+    font-size: .8rem;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 40px;
+}
+
+.breadcrumb-container > .breadcrumb-anchor:not(:last-of-type)[b-4tf3qsx22r]{
+    color: #0079f3;
+    text-decoration: none;
+}
+
+.breadcrumb-container > .breadcrumb-anchor:hover:not(:last-of-type)[b-4tf3qsx22r]{
+    text-decoration: underline;
+}
+
+.breadcrumb-container > .breadcrumb-anchor:last-of-type[b-4tf3qsx22r] {
+    color: black;
+    opacity: .5;
+    text-decoration: none;
+}

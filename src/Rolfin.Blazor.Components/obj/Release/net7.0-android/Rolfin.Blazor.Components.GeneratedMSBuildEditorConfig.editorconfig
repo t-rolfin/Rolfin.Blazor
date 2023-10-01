@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = Rolfin.Blazor.Components
+build_property.RootNamespace = Rolfin.Blazor.Components
+build_property.ProjectDir = C:\Users\rolfin\source\repos\HuntingAndFishing\src\Rolfin.Blazor.Components\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rolfin\source\repos\HuntingAndFishing\src\Rolfin.Blazor.Components
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Breadcrumb/RBreadcrumbItem.razor]
+build_metadata.AdditionalFiles.TargetPath = QnJlYWRjcnVtYlxSQnJlYWRjcnVtYkl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/ColorPicker.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29sb3JQaWNrZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Grid/GridSearch.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JpZFxHcmlkU2VhcmNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Stepper/StepperNextAction.razor]
+build_metadata.AdditionalFiles.TargetPath = U3RlcHBlclxTdGVwcGVyTmV4dEFjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/SwitchTextArea.razor]
+build_metadata.AdditionalFiles.TargetPath = U3dpdGNoVGV4dEFyZWEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Table/RTableColumn.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFibGVcUlRhYmxlQ29sdW1uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Table/RTableFooter.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFibGVcUlRhYmxlRm9vdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Table/RTablePagination.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFibGVcUlRhYmxlUGFnaW5hdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Table/RTableSearch.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFibGVcUlRhYmxlU2VhcmNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Tabs/RTab.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFic1xSVGFiLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/ActionBar.razor]
+build_metadata.AdditionalFiles.TargetPath = QWN0aW9uQmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-tsssrjo5fd
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Breadcrumb/RBreadcrumb.razor]
+build_metadata.AdditionalFiles.TargetPath = QnJlYWRjcnVtYlxSQnJlYWRjcnVtYi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-4tf3qsx22r
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Buttons/AddButton.razor]
+build_metadata.AdditionalFiles.TargetPath = QnV0dG9uc1xBZGRCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-gok61u8p94
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Buttons/ApproveButton.razor]
+build_metadata.AdditionalFiles.TargetPath = QnV0dG9uc1xBcHByb3ZlQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-fcglkzj5xs
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Buttons/DiscardButton.razor]
+build_metadata.AdditionalFiles.TargetPath = QnV0dG9uc1xEaXNjYXJkQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-m2dd9ftip2
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Buttons/GenericButton.razor]
+build_metadata.AdditionalFiles.TargetPath = QnV0dG9uc1xHZW5lcmljQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-srrs593ocm
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Buttons/NextButton.razor]
+build_metadata.AdditionalFiles.TargetPath = QnV0dG9uc1xOZXh0QnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-63n5mmiqwj
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Buttons/SaveButton.razor]
+build_metadata.AdditionalFiles.TargetPath = QnV0dG9uc1xTYXZlQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-p9eabj598k
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/DragAndDropArea/RDragAndDropArea.razor]
+build_metadata.AdditionalFiles.TargetPath = RHJhZ0FuZERyb3BBcmVhXFJEcmFnQW5kRHJvcEFyZWEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3h18g7997s
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Grid/CardAction.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JpZFxDYXJkQWN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-0yhsabzhwv
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Grid/CardGrid.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JpZFxDYXJkR3JpZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ud4dcll37t
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/HorizontalSlide/RHorizontalSlide.razor]
+build_metadata.AdditionalFiles.TargetPath = SG9yaXpvbnRhbFNsaWRlXFJIb3Jpem9udGFsU2xpZGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-41avn2ekrr
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Info.razor]
+build_metadata.AdditionalFiles.TargetPath = SW5mby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-s2jjmfibzy
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/InputImage.razor]
+build_metadata.AdditionalFiles.TargetPath = SW5wdXRJbWFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-d6bvzvk82a
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Loading/RLoading.razor]
+build_metadata.AdditionalFiles.TargetPath = TG9hZGluZ1xSTG9hZGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-8lcdey55rc
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/MultipleInputSelect.razor]
+build_metadata.AdditionalFiles.TargetPath = TXVsdGlwbGVJbnB1dFNlbGVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-tar6i6ycwg
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Notification/Notify.razor]
+build_metadata.AdditionalFiles.TargetPath = Tm90aWZpY2F0aW9uXE5vdGlmeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-xy8fymmlnw
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/RDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UkRpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-vgxxml64yg
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/RTooltip.razor]
+build_metadata.AdditionalFiles.TargetPath = UlRvb2x0aXAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-e9x03aweqs
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Stepper/Step.razor]
+build_metadata.AdditionalFiles.TargetPath = U3RlcHBlclxTdGVwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-lvq37nk8x9
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Stepper/Stepper.razor]
+build_metadata.AdditionalFiles.TargetPath = U3RlcHBlclxTdGVwcGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-mfxsnkl10t
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Switch.razor]
+build_metadata.AdditionalFiles.TargetPath = U3dpdGNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-blo0libkrc
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Table/RTable.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFibGVcUlRhYmxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-g8jcqlfhnt
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Table/TableAction.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFibGVcVGFibGVBY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-plwcwl1o04
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Tabs/RTabs.razor]
+build_metadata.AdditionalFiles.TargetPath = VGFic1xSVGFicy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-onbvmxyqq0
+
+[C:/Users/rolfin/source/repos/HuntingAndFishing/src/Rolfin.Blazor.Components/Uploader/Uploader.razor]
+build_metadata.AdditionalFiles.TargetPath = VXBsb2FkZXJcVXBsb2FkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-2g6j8fc8sm

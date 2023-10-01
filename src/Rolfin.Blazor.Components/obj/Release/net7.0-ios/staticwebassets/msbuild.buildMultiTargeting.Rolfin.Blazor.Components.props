@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rolfin.Blazor.Components.props" />
+</Project>

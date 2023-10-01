@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.Components\\obj\\Release\\net7.0-windows10.0.19041.0\\scopedcss\\projectbundle\\Rolfin.Blazor.Components.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Rolfin.Blazor.Components.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.Components\\wwwroot\\dropZone.js",
+      "PackagePath": "staticwebassets\\dropZone.js"
+    },
+    {
+      "Id": "C:\\Users\\rolfin\\source\\repos\\HuntingAndFishing\\src\\Rolfin.Blazor.Components\\wwwroot\\rolfin.scripts.js",
+      "PackagePath": "staticwebassets\\rolfin.scripts.js"
+    },
+    {
+      "Id": "obj\\Release\\net7.0-windows10.0.19041.0\\staticwebassets\\msbuild.Rolfin.Blazor.Components.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0-windows10.0.19041.0\\staticwebassets\\msbuild.build.Rolfin.Blazor.Components.props",
+      "PackagePath": "build\\Rolfin.Blazor.Components.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0-windows10.0.19041.0\\staticwebassets\\msbuild.buildMultiTargeting.Rolfin.Blazor.Components.props",
+      "PackagePath": "buildMultiTargeting\\Rolfin.Blazor.Components.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0-windows10.0.19041.0\\staticwebassets\\msbuild.buildTransitive.Rolfin.Blazor.Components.props",
+      "PackagePath": "buildTransitive\\Rolfin.Blazor.Components.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

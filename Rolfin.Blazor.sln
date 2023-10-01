@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4E47A1E7-82EE-4808-ADAC-8057ACE55200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolfin.Blazor.Components", "src\Rolfin.Blazor.Components\Rolfin.Blazor.Components.csproj", "{443C078B-7B2C-497C-93CE-7BD6CD0FDB1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolfin.Blazor.FluentValidation", "src\Rolfin.Blazor.FluentValidation\Rolfin.Blazor.FluentValidation.csproj", "{95804E92-C572-4226-88D8-A8D9E7D624E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{443C078B-7B2C-497C-93CE-7BD6CD0FDB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443C078B-7B2C-497C-93CE-7BD6CD0FDB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443C078B-7B2C-497C-93CE-7BD6CD0FDB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443C078B-7B2C-497C-93CE-7BD6CD0FDB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95804E92-C572-4226-88D8-A8D9E7D624E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95804E92-C572-4226-88D8-A8D9E7D624E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95804E92-C572-4226-88D8-A8D9E7D624E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95804E92-C572-4226-88D8-A8D9E7D624E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{443C078B-7B2C-497C-93CE-7BD6CD0FDB1E} = {4E47A1E7-82EE-4808-ADAC-8057ACE55200}
+		{95804E92-C572-4226-88D8-A8D9E7D624E3} = {4E47A1E7-82EE-4808-ADAC-8057ACE55200}
+	EndGlobalSection
+EndGlobal
