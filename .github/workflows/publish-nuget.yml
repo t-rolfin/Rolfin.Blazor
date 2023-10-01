@@ -2,7 +2,7 @@ name: Rolfin.Blazor.Components - Release
 
 on:
   workflow_run:
-    workflows: ["Rolfin.Result - CI"]
+    workflows: ["Rolfin.Blazor.Components - CI"]
     branches: [ main ]
     types:
       - completed
@@ -15,7 +15,7 @@ jobs:
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: '3.1.x'
+        dotnet-version: 'net7.0-windows10.0.19041.0'
         
     - name: Install dependencies
       run: dotnet restore
@@ -26,7 +26,7 @@ jobs:
     - name: Publish to NuGet
       uses: brandedoutcast/publish-nuget@v2
       with:
-        PROJECT_FILE_PATH: src/Rolfin.Result/Rolfin.Result.csproj
+        PROJECT_FILE_PATH: src/Rolfin.Blazor.Components/Rolfin.Blazor.Components.csproj
         VERSION_REGEX: '^\s*<Version>(.*)<\/Version>\s*$'
         TAG_FORMAT: '*'
         NUGET_KEY: ${{secrets.NUGET_API_KEY}}
