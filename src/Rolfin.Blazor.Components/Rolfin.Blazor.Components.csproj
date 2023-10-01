@@ -1,10 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
 
   <PropertyGroup>
-	  <TargetFrameworks>net7.0-android;net7.0-ios;net7.0-maccatalyst</TargetFrameworks>
-	  <TargetFrameworks Condition="$([MSBuild]::IsOSPlatform('windows'))">$(TargetFrameworks);net7.0-windows10.0.19041.0</TargetFrameworks>
-	  <Nullable>disable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
+	<TargetFrameworks>net7.0-android;net7.0-ios;net7.0-maccatalyst</TargetFrameworks>
+	<TargetFrameworks Condition="$([MSBuild]::IsOSPlatform('windows'))">$(TargetFrameworks);net7.0-windows10.0.19041.0</TargetFrameworks>
+	<Nullable>disable</Nullable>
+	<ImplicitUsings>enable</ImplicitUsings>
+	<Version>1.0.0-pre</Version>
+	<Authors>Florin Tatu</Authors>
+	<Company>RT Net</Company>
+	<Product />
+	<PackageProjectUrl>https://github.com/t-rolfin/Rolfin.Blazor</PackageProjectUrl>
+	<RepositoryUrl>https://github.com/t-rolfin/Rolfin.Blazor</RepositoryUrl>
   </PropertyGroup>
 
 
