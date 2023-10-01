@@ -1,4 +1,4 @@
-name: Rolfin.Result - Release
+name: Rolfin.Blazor.Components - Release
 
 on:
   workflow_run:
