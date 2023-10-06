@@ -5,17 +5,18 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4E47A1E7-82EE-4808-ADAC-8057ACE55200}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolfin.Blazor.Components", "src\Rolfin.Blazor.Components\Rolfin.Blazor.Components.csproj", "{443C078B-7B2C-497C-93CE-7BD6CD0FDB1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rolfin.Blazor.Components", "src\Rolfin.Blazor.Components\Rolfin.Blazor.Components.csproj", "{443C078B-7B2C-497C-93CE-7BD6CD0FDB1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolfin.Blazor.FluentValidation", "src\Rolfin.Blazor.FluentValidation\Rolfin.Blazor.FluentValidation.csproj", "{95804E92-C572-4226-88D8-A8D9E7D624E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rolfin.Blazor.FluentValidation", "src\Rolfin.Blazor.FluentValidation\Rolfin.Blazor.FluentValidation.csproj", "{95804E92-C572-4226-88D8-A8D9E7D624E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "web sample", "web sample", "{BC8DFB84-78D3-4261-A77E-3137CE9760FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolfin.Blazor.Web", "web sample\Rolfin.Blazor.Web\Rolfin.Blazor.Web.csproj", "{F832B503-E068-4B3D-BAED-59A25FFFCBB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{443C078B-7B2C-497C-93CE-7BD6CD0FDB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -26,9 +27,20 @@ Global
 		{95804E92-C572-4226-88D8-A8D9E7D624E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95804E92-C572-4226-88D8-A8D9E7D624E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95804E92-C572-4226-88D8-A8D9E7D624E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F832B503-E068-4B3D-BAED-59A25FFFCBB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F832B503-E068-4B3D-BAED-59A25FFFCBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F832B503-E068-4B3D-BAED-59A25FFFCBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F832B503-E068-4B3D-BAED-59A25FFFCBB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{443C078B-7B2C-497C-93CE-7BD6CD0FDB1E} = {4E47A1E7-82EE-4808-ADAC-8057ACE55200}
 		{95804E92-C572-4226-88D8-A8D9E7D624E3} = {4E47A1E7-82EE-4808-ADAC-8057ACE55200}
+		{F832B503-E068-4B3D-BAED-59A25FFFCBB8} = {BC8DFB84-78D3-4261-A77E-3137CE9760FA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D532747-6414-4A6B-B0D2-BC371E981377}
 	EndGlobalSection
 EndGlobal
