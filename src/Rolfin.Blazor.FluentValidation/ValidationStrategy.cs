@@ -33,6 +33,7 @@ public class ValidationStrategy<TModel>
                 .Where(x => x.FieldName.Equals(fieldName))
                 .ToList();
     public void ClearErrorFor(string fieldName) => _builder.RemoveErrorsFor(fieldName);
+    public void AddErrorFor(string fieldName, string message) => _builder.AddErrorFor(fieldName, message);
 }
 
 public class ValidationStrategy
